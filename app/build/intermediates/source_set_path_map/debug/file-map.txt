@@ -1,0 +1,57 @@
+com.app.anim.app-navigation-common-ktx-2.5.1-0 C:\Users\LukoseJi\.gradle\caches\transforms-3\021daa4ed4ec74ffb5e9b41268243fff\transformed\navigation-common-ktx-2.5.1\res
+com.app.anim.app-hilt-navigation-compose-1.1.0-1 C:\Users\LukoseJi\.gradle\caches\transforms-3\0925fa89ed1885fb7cc15e860875c181\transformed\hilt-navigation-compose-1.1.0\res
+com.app.anim.app-animation-core-1.4.0-2 C:\Users\LukoseJi\.gradle\caches\transforms-3\10ea670d1e5a5cf41dd40ea2cd7b7c3a\transformed\animation-core-1.4.0\res
+com.app.anim.app-material-icons-core-1.4.0-3 C:\Users\LukoseJi\.gradle\caches\transforms-3\150bfe3278a20e0993ffb8f30c7988ab\transformed\material-icons-core-1.4.0\res
+com.app.anim.app-ui-tooling-data-1.4.0-4 C:\Users\LukoseJi\.gradle\caches\transforms-3\1864766cd424ac3943f97d876309e8db\transformed\ui-tooling-data-1.4.0\res
+com.app.anim.app-navigation-runtime-ktx-2.5.1-5 C:\Users\LukoseJi\.gradle\caches\transforms-3\21df5046a81a354ef11cdd42e4c7bb2b\transformed\navigation-runtime-ktx-2.5.1\res
+com.app.anim.app-lifecycle-process-2.6.2-6 C:\Users\LukoseJi\.gradle\caches\transforms-3\2351edcbe58c48865eeaf67a728f45d0\transformed\lifecycle-process-2.6.2\res
+com.app.anim.app-profileinstaller-1.3.0-7 C:\Users\LukoseJi\.gradle\caches\transforms-3\2939796719eecdba343919b7b288f9c6\transformed\profileinstaller-1.3.0\res
+com.app.anim.app-activity-compose-1.8.0-8 C:\Users\LukoseJi\.gradle\caches\transforms-3\31d9f20aff94bbae674edf5579ce3223\transformed\activity-compose-1.8.0\res
+com.app.anim.app-ui-1.4.0-9 C:\Users\LukoseJi\.gradle\caches\transforms-3\3b6b00de78f321598079a6f5d4cafc51\transformed\ui-1.4.0\res
+com.app.anim.app-lifecycle-runtime-ktx-2.6.2-10 C:\Users\LukoseJi\.gradle\caches\transforms-3\41915d9e9b27d34be0539002dfc0d226\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.app.anim.app-ui-text-1.4.0-11 C:\Users\LukoseJi\.gradle\caches\transforms-3\47501242b1f9362956953e9083416ef9\transformed\ui-text-1.4.0\res
+com.app.anim.app-animation-1.4.0-12 C:\Users\LukoseJi\.gradle\caches\transforms-3\48c9e6e876ae0128af16da93346059be\transformed\animation-1.4.0\res
+com.app.anim.app-ui-tooling-1.4.0-13 C:\Users\LukoseJi\.gradle\caches\transforms-3\5724b512be31cf1e9257b4b600da551c\transformed\ui-tooling-1.4.0\res
+com.app.anim.app-lifecycle-livedata-core-2.6.2-14 C:\Users\LukoseJi\.gradle\caches\transforms-3\5a3f843ff8f9ad1c7d4cd4e83c19815e\transformed\lifecycle-livedata-core-2.6.2\res
+com.app.anim.app-runtime-1.4.0-15 C:\Users\LukoseJi\.gradle\caches\transforms-3\5d963703285b2d67581abea8fafea58c\transformed\runtime-1.4.0\res
+com.app.anim.app-core-1.12.0-16 C:\Users\LukoseJi\.gradle\caches\transforms-3\61a65f471ffee385f0fb8afbb525d26d\transformed\core-1.12.0\res
+com.app.anim.app-ui-util-1.4.0-17 C:\Users\LukoseJi\.gradle\caches\transforms-3\623fefd96fa9d8128dfbc7d2d91cf17d\transformed\ui-util-1.4.0\res
+com.app.anim.app-ui-unit-1.4.0-18 C:\Users\LukoseJi\.gradle\caches\transforms-3\6aa21c0076667c6a5912a890a003aaf8\transformed\ui-unit-1.4.0\res
+com.app.anim.app-ui-geometry-1.4.0-19 C:\Users\LukoseJi\.gradle\caches\transforms-3\6b03080dcfedc772909517719ff58113\transformed\ui-geometry-1.4.0\res
+com.app.anim.app-startup-runtime-1.1.1-20 C:\Users\LukoseJi\.gradle\caches\transforms-3\6b46dbfe58b75be2b78fac321aab4d39\transformed\startup-runtime-1.1.1\res
+com.app.anim.app-fragment-1.5.1-21 C:\Users\LukoseJi\.gradle\caches\transforms-3\6d2ae8b188b8a890ce7c9732bf70a6b6\transformed\fragment-1.5.1\res
+com.app.anim.app-lifecycle-viewmodel-compose-2.6.2-22 C:\Users\LukoseJi\.gradle\caches\transforms-3\720fdc6c0c6b73051d7427af16d40154\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.app.anim.app-emoji2-1.3.0-23 C:\Users\LukoseJi\.gradle\caches\transforms-3\78140b2e359177f80cef571221403214\transformed\emoji2-1.3.0\res
+com.app.anim.app-hilt-navigation-1.1.0-24 C:\Users\LukoseJi\.gradle\caches\transforms-3\7ab2a5cda341a76e5dd4768ec5b1d37a\transformed\hilt-navigation-1.1.0\res
+com.app.anim.app-material3-1.0.0-25 C:\Users\LukoseJi\.gradle\caches\transforms-3\85a4ab078fafabbb8b85cc39dee3ac0e\transformed\material3-1.0.0\res
+com.app.anim.app-lifecycle-viewmodel-ktx-2.6.2-26 C:\Users\LukoseJi\.gradle\caches\transforms-3\88a6f79976c91a0aa3cb113cfb2fe551\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.app.anim.app-activity-1.8.0-27 C:\Users\LukoseJi\.gradle\caches\transforms-3\8a65c95a6b32d645c5316fef432c62a4\transformed\activity-1.8.0\res
+com.app.anim.app-annotation-experimental-1.3.0-28 C:\Users\LukoseJi\.gradle\caches\transforms-3\8c4c99506f9db9c923e03f7bc843c8d7\transformed\annotation-experimental-1.3.0\res
+com.app.anim.app-lifecycle-livedata-2.6.2-29 C:\Users\LukoseJi\.gradle\caches\transforms-3\9b67a127254870878c26c87452f07ce0\transformed\lifecycle-livedata-2.6.2\res
+com.app.anim.app-navigation-runtime-2.5.1-30 C:\Users\LukoseJi\.gradle\caches\transforms-3\a493ac6061b8ef0831c1c079751a4e65\transformed\navigation-runtime-2.5.1\res
+com.app.anim.app-material-1.4.0-31 C:\Users\LukoseJi\.gradle\caches\transforms-3\a788ffabcbb838585a7d349c0f91b9f2\transformed\material-1.4.0\res
+com.app.anim.app-foundation-1.4.0-32 C:\Users\LukoseJi\.gradle\caches\transforms-3\a86e2635285dc5fb4ea9bb7371c176d1\transformed\foundation-1.4.0\res
+com.app.anim.app-ui-test-manifest-1.4.0-33 C:\Users\LukoseJi\.gradle\caches\transforms-3\afe32eb7efab49bd34684c951c88cc2f\transformed\ui-test-manifest-1.4.0\res
+com.app.anim.app-customview-poolingcontainer-1.0.0-34 C:\Users\LukoseJi\.gradle\caches\transforms-3\b2dc6c3078181a0a3a57d4309ed80594\transformed\customview-poolingcontainer-1.0.0\res
+com.app.anim.app-lifecycle-viewmodel-2.6.2-35 C:\Users\LukoseJi\.gradle\caches\transforms-3\b3e173064140f7f042dfe24974f79dad\transformed\lifecycle-viewmodel-2.6.2\res
+com.app.anim.app-lifecycle-runtime-2.6.2-36 C:\Users\LukoseJi\.gradle\caches\transforms-3\bb378cc16166197045310ec1df416898\transformed\lifecycle-runtime-2.6.2\res
+com.app.anim.app-foundation-layout-1.4.0-37 C:\Users\LukoseJi\.gradle\caches\transforms-3\bdb83b6010b0ef95b9aeda9dbee8ba63\transformed\foundation-layout-1.4.0\res
+com.app.anim.app-navigation-compose-2.5.1-38 C:\Users\LukoseJi\.gradle\caches\transforms-3\bffc8a8101d2036c291ff38705e27c35\transformed\navigation-compose-2.5.1\res
+com.app.anim.app-activity-ktx-1.8.0-39 C:\Users\LukoseJi\.gradle\caches\transforms-3\c91e4ef34afaf92f3ab7154a496b4f58\transformed\activity-ktx-1.8.0\res
+com.app.anim.app-ui-graphics-1.4.0-40 C:\Users\LukoseJi\.gradle\caches\transforms-3\cc3e6db602773a123f3c9aeb2c8e523b\transformed\ui-graphics-1.4.0\res
+com.app.anim.app-savedstate-1.2.1-41 C:\Users\LukoseJi\.gradle\caches\transforms-3\cf50d9f1b250ace53c1052a67216c892\transformed\savedstate-1.2.1\res
+com.app.anim.app-navigation-common-2.5.1-42 C:\Users\LukoseJi\.gradle\caches\transforms-3\cfa8251a261dbdb1c39b5319fcb8573b\transformed\navigation-common-2.5.1\res
+com.app.anim.app-material-ripple-1.4.0-43 C:\Users\LukoseJi\.gradle\caches\transforms-3\d166ca6e3b6c2c47373f254dace3225f\transformed\material-ripple-1.4.0\res
+com.app.anim.app-savedstate-ktx-1.2.1-44 C:\Users\LukoseJi\.gradle\caches\transforms-3\d1a9e32cd0b3cffd1b1fe83a61dc1c44\transformed\savedstate-ktx-1.2.1\res
+com.app.anim.app-lifecycle-viewmodel-savedstate-2.6.2-45 C:\Users\LukoseJi\.gradle\caches\transforms-3\d467ffcec4b0443461aabbe1b650dd3b\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.app.anim.app-core-runtime-2.2.0-46 C:\Users\LukoseJi\.gradle\caches\transforms-3\e7136e11bfc6f1a13052add225a0b8a4\transformed\core-runtime-2.2.0\res
+com.app.anim.app-ui-tooling-preview-1.4.0-47 C:\Users\LukoseJi\.gradle\caches\transforms-3\ece657ea01214491e612033b44478f04\transformed\ui-tooling-preview-1.4.0\res
+com.app.anim.app-runtime-saveable-1.4.0-48 C:\Users\LukoseJi\.gradle\caches\transforms-3\f028ddbb7b9e53f7ede421d642735bc1\transformed\runtime-saveable-1.4.0\res
+com.app.anim.app-core-ktx-1.12.0-49 C:\Users\LukoseJi\.gradle\caches\transforms-3\fb3a8147e25fbf78eb530cb3159f17d7\transformed\core-ktx-1.12.0\res
+com.app.anim.app-resValues-50 C:\Users\LukoseJi\Desktop\testapp\sample appp\MyApplication2\MyApplication2\app\build\generated\res\resValues\debug
+com.app.anim.app-rs-51 C:\Users\LukoseJi\Desktop\testapp\sample appp\MyApplication2\MyApplication2\app\build\generated\res\rs\debug
+com.app.anim.app-packageDebugResources-52 C:\Users\LukoseJi\Desktop\testapp\sample appp\MyApplication2\MyApplication2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.app.anim.app-packageDebugResources-53 C:\Users\LukoseJi\Desktop\testapp\sample appp\MyApplication2\MyApplication2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.app.anim.app-merged_res-54 C:\Users\LukoseJi\Desktop\testapp\sample appp\MyApplication2\MyApplication2\app\build\intermediates\merged_res\debug
+com.app.anim.app-debug-55 C:\Users\LukoseJi\Desktop\testapp\sample appp\MyApplication2\MyApplication2\app\src\debug\res
+com.app.anim.app-main-56 C:\Users\LukoseJi\Desktop\testapp\sample appp\MyApplication2\MyApplication2\app\src\main\res

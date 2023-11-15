@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fetch_fact">Fetch Fact</string>
+    <string name="random_fact">Random Fact</string>
+</resources>
